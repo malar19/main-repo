@@ -1,0 +1,4 @@
+[submodule "submodule-repo"]
+	path = submodule-repo
+	url = https://github.com/malar19/submodule-repo.git
+	branch = master
